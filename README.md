@@ -5,3 +5,7 @@
 - Snake game is made by Pygame library.
 - Implemented the agent that controls the game.
 - Implement the neural network to predict the moves and train it.
+
+**To Run the project**
+- pip install -r requirements.txt
+- Run agent.py
